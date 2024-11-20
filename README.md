@@ -2,7 +2,6 @@
 <h3>NAME: SYED MOKTHIYAR S M</h3>
 <h3>REGISTER NO: 212222230156</h3>
 <h3>EX. NO: 5</h3>
-<h3>DATE:</h3>
 
 ## AIM:
 To Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
